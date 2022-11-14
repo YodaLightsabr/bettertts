@@ -1,11 +1,15 @@
-# tts-cli
+# bettertts
 
-Generate text-to-speech .mp3 files in the terminal
+Generate text-to-speech .mp3 files in node or in the terminal
 
 ## Installation
 
 ```bash
-npm install tts-cli -g
+# Node
+npm install bettertts
+
+# Terminal
+npm install bettertts -g
 ```
 
 ## Usage
